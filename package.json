@@ -1,0 +1,12 @@
+{
+  "name": "js-hn8hph",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "node": "^13.8.0",
+    "popper.js": "^1.16.1",
+    "redux": "^4.0.5"
+  }
+}
